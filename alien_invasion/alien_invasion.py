@@ -1,3 +1,5 @@
+# TODO: страница 250 группировка пуль
+
 import game_functions as gf
 import pygame
 
